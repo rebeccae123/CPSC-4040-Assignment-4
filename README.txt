@@ -21,10 +21,3 @@ Press ESC to exit program/close window.
 Assuming valid commandline arguments - no input validation.
 Images and filters only supported if within same directory as program
   (no subdirectories).
-Experiments completed and successful with:
-squares.png - pulse.filt, tent.filt, hp.filt, sobol-horiz.filt,
-  sobol-vert.filt
-checkers.png - box.filt, box5.filt, box7.filt, box9.filt
-biglines.png - cross.filt
-square.png - diagonal.filt
-waves.png - sobol-horiz.filt, sobol-vert.filt, define1.filt, define2.filt
